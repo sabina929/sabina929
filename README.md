@@ -24,6 +24,7 @@
 <img align="left" alt="Adobe Illustrator" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 <img align="left" alt="Adobe After Effects" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeaftereffects.svg" />
 <img align="left" alt="Figma" width="24px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
+<img align="left" alt="Autodesk Sketchbook" width="24px" src="https://seeklogo.com/vector-logo/283124/autodesk-sketchbook-pro" />
 <br />
 <br />
 
