@@ -24,7 +24,8 @@
 <img align="left" alt="Adobe Illustrator" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 <img align="left" alt="Adobe After Effects" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeaftereffects.svg" />
 <img align="left" alt="Figma" width="24px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
-[autodesk-sketchbook-pro-logo-57D2CF66B2-seeklogo com]
+<img align="left" alt="Autodesk Sketchbook" width="24px" src="https://user-images.githubusercontent.com/50209542/101072661-cbd5b600-35b7-11eb-8321-fb16b1057aea.png" />
+
 <br />
 <br />
 
@@ -41,4 +42,3 @@
 [behance]: https://www.behance.net/sabinaabbasova
 [linkedin]: https://www.linkedin.com/in/sabinaabbasova
 [email]: mailto:sabina.abbasova2909@gmail.com
-[autodesk-sketchbook-pro-logo-57D2CF66B2-seeklogo com](https://user-images.githubusercontent.com/50209542/101072661-cbd5b600-35b7-11eb-8321-fb16b1057aea.png)
