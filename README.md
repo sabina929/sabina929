@@ -24,8 +24,8 @@
 
 ### Connect with me:
 
-[Email]: mailto:sabina.abbasova2909@gmail.com
-[Website]: https://sabinaabbasova-new.netlify.app/
-[ArtStation]: https://www.artstation.com/sabinaabbasova
-[Behance]: https://www.behance.net/sabinaabbasova
-[Linkedin]: https://www.linkedin.com/in/sabinaabbasova/
+[email]: mailto:sabina.abbasova2909@gmail.com
+[website]: https://sabinaabbasova-new.netlify.app/
+[artstation]: https://www.artstation.com/sabinaabbasova
+[behance]: https://www.behance.net/sabinaabbasova
+[linkedin]: https://www.linkedin.com/in/sabinaabbasova/
