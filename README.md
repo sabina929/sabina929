@@ -2,7 +2,6 @@
 ### I'm Sabina, an explorer... 🚀
 
 <br />
-<br />
 
 ## I'm a Front-End Developer, Digital Artist and Designer.
 
