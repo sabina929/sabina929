@@ -24,6 +24,12 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Email" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Website" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
+[<img align="left" alt="ArtStation" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />][artstation]
+[<img align="left" alt="Behance" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [email]: mailto:sabina.abbasova2909@gmail.com
 [website]: https://sabinaabbasova-new.netlify.app
 [artstation]: https://www.artstation.com/sabinaabbasova
