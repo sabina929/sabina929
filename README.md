@@ -41,4 +41,4 @@
 [artstation]: https://www.artstation.com/sabinaabbasova
 [behance]: https://www.behance.net/sabinaabbasova
 [linkedin]: https://www.linkedin.com/in/sabinaabbasova
-[email]: mailto:sabina.abbasova2909@gmail.com
+[email]: mailto:heysabinaabbasova@gmail.com
