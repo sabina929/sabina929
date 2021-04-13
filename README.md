@@ -37,7 +37,7 @@
 [<img align="left" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Email" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-[website]: https://sabinaabbasova-new.netlify.app
+[website]: https://sabinaabbas.netlify.app
 [artstation]: https://www.artstation.com/sabinaabbasova
 [behance]: https://www.behance.net/sabinaabbasova
 [linkedin]: https://www.linkedin.com/in/sabinaabbasova
